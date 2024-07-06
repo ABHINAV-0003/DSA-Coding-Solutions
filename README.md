@@ -89,7 +89,7 @@ This repository contains a collection of algorithmic problems solved in C++. Eac
 **Description:** Finds the total number of subarrays with a given XOR sum equal to k.
 
 ### 17. Merge Intervals
-**File:** [Merge Intervals](17.Merge_Intervals)  
+**File:** [Merge Intervals](17.Merge_Subinterval)  
 **Description:** Merges all overlapping intervals in a list of intervals.
 
 ## How to Use
