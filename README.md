@@ -1,5 +1,3 @@
-# ABHINAV-0003
-
 This repository contains a collection of algorithmic problems solved in C++. Each problem is accompanied by a brief description and the corresponding C++ code. This collection is intended to serve as a study guide and reference for learning and practicing algorithms and data structures.
 
 ## Table of Contents
