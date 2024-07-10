@@ -1,4 +1,6 @@
-This repository contains a collection of algorithmic problems solved in C++. Each problem is accompanied by a brief description and the corresponding C++ code. This collection is intended to serve as a study guide and reference for learning and practicing algorithms and data structures.
+# Algorithmic Problems in C++
+
+Welcome to my repository containing a collection of algorithmic problems solved in C++. Each problem is accompanied by a brief description and the corresponding C++ code. This collection is intended to serve as a study guide and reference for learning and practicing algorithms and data structures.
 
 ## Table of Contents
 
@@ -19,6 +21,10 @@ This repository contains a collection of algorithmic problems solved in C++. Eac
 15. [Maximum Subarray Sum Zero](#15-maximum-subarray-sum-zero)
 16. [Subarray XOR Sum K](#16-subarray-xor-sum-k)
 17. [Merge Intervals](#17-merge-intervals)
+18. [Missing and Repeating Elements](#18-missing-and-repeating-elements)
+19. [Inversion Count](#19-inversion-count)
+20. [Reverse Pairs](#20-reverse-pairs)
+21. [Maximum Product Subarray](#21-maximum-product-subarray)
 
 ## Detailed Descriptions
 
@@ -89,6 +95,22 @@ This repository contains a collection of algorithmic problems solved in C++. Eac
 ### 17. Merge Intervals
 **File:** [Merge Intervals](17.Merge_Subinterval)  
 **Description:** Merges all overlapping intervals in a list of intervals.
+
+### 18. Missing and Repeating Elements
+**File:** [Missing and Repeating Elements](18.Missing_Repeating)  
+**Description:** Finds the missing and repeating elements in an array of size n.
+
+### 19. Inversion Count
+**File:** [Inversion Count](19.Inversion_Count)  
+**Description:** Counts the number of inversions in an array.
+
+### 20. Reverse Pairs
+**File:** [Reverse Pairs](20.Reverse_Pairs)  
+**Description:** Counts the number of reverse pairs in an array.
+
+### 21. Maximum Product Subarray
+**File:** [Maximum Product Subarray](21.Max_Product_Subarray)  
+**Description:** Finds the maximum product of any contiguous subarray.
 
 ## How to Use
 
