@@ -1,3 +1,6 @@
+# **Repository Notice**
+
+> **:warning: This repository is no longer maintained.** 
 # Algorithmic Problems in C++
 
 Welcome to my repository containing a collection of algorithmic problems solved in C++. Each problem is accompanied by a brief description and the corresponding C++ code. This collection is intended to serve as a study guide and reference for learning and practicing algorithms and data structures.
@@ -196,6 +199,10 @@ Welcome to my repository containing a collection of algorithmic problems solved 
 ### 38. Aggressive Cows
 **File:** `Aggresive_cows`  
 **Description:** Determines the largest minimum distance between aggressive cows placed in stalls.
+
+## Conclusion
+This journey has now ended. Thank you for exploring and using this repository.
+*"Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference."* – Robert Frost
 
 ## How to Use
 Clone the Repository:
